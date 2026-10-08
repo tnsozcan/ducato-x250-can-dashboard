@@ -4,6 +4,10 @@ I built this project to use my 2009 Ducato X250 cluster with ETS2 and BeamNG.
 
 [Turkish setup](docs/KURULUM_TR.md) | [Connector pinout](docs/PINOUT.md) | [CAN messages](docs/CAN_MESSAGES.md)
 
+## Demo video
+
+[Watch the ETS2 demo on YouTube](https://www.youtube.com/watch?v=i5k8apagwuo)
+
 ## Hardware
 
 Nano ATmega328P + MCP2515/TJA1050, **8 MHz crystal, 50 kbit/s B-CAN**.
