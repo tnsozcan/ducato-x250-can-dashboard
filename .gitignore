@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.hex
+*.elf
+*.o
+build/
+.venv/
+*.log
