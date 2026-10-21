@@ -6,3 +6,6 @@ __pycache__/
 build/
 .venv/
 *.log
+
+# Private project notes (never publish)
+.codex-memory/

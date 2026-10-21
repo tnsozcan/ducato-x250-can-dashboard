@@ -102,3 +102,9 @@ I used the original setup on real hardware with both games. The extracted public
 [Funbit telemetry server](https://github.com/Funbit/ets2-telemetry-server).
 
 I kept my raw notes and research tools private. No affiliation with Fiat, SCS Software or BeamNG.
+
+## Community and license
+
+I welcome English and Turkish contributions. Please read the [contribution guide](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md), use the [issue templates](https://github.com/tnsozcan/ducato-x250-can-dashboard/issues/new/choose), and report vulnerabilities through the [security policy](SECURITY.md). [Accessibility notes](ACCESSIBILITY.md) describe current support and limitations.
+
+My original code and documentation are available under the [MIT License](LICENSE). External libraries, telemetry tools and referenced projects retain their own licenses.
