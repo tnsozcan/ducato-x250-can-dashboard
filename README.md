@@ -2,6 +2,8 @@
 
 I built this project to use my 2009 Ducato X250 cluster with ETS2 and BeamNG.
 
+Have a 2023 Ducato? See [ducato-2023-can-dashboard](https://github.com/tnsozcan/ducato-2023-can-dashboard).
+
 [Turkish setup](docs/KURULUM_TR.md) | [Connector pinout](docs/PINOUT.md) | [CAN messages](docs/CAN_MESSAGES.md)
 
 ## Demo video
